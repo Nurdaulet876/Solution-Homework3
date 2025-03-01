@@ -1,6 +1,7 @@
 # Solution-Homework3
 TASK #1
 Implement a Builder for a Complex Object
+
 •Overview
 This project demonstrates the Builder design pattern in a text-based game (MUD). The pattern is used to construct complex Dungeon objects step by step, providing a flexible and readable way to create game environments.
 
@@ -17,6 +18,7 @@ MUDBuilderDemo.java → Demonstrates the usage of the builder pattern to constru
 
 TASK #2
 MUD Prototype Pattern Implementation
+
 •Overview
 This project demonstrates the Prototype design pattern in a text-based game (MUD). The pattern is used to create copies of game entities (e.g., Rooms and NPCs) without instantiating them from scratch. Each entity implements the CloneableGameEntity interface to support cloning.
 
